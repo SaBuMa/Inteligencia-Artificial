@@ -1,2 +1,2 @@
 # Inteligencia-Artificial
-3 This is the notebook for AI
+# This is the notebook for AI
