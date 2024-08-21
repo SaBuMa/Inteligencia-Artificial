@@ -4,15 +4,15 @@ Los proyectos de Inteligencia artificial realizados están orientados hacia la i
 
 El lenguaje de programación utilizado es __Python__ asi como también las librerias: __numpy, pandas, matplotlib,  sklearn.__
 
-# Snippets de Python y sus resultados
+## Snippets de Python y sus resultados
 
 ### Declaración de librerias 
 <p align="center">
-<img src="ProyectoFinal/Librerias.png" alt="Librerias" width="500"/>  
+<img src="ProyectoFinal/Librerias.png" alt="Librerias" width="800"/>  
 </p>
 
-### Resultados con datos de entrenamiento y de prueba  
-![Resultados](ProyectoFinal/Resultados_Training_Testing.png)
+### Resultados con datos de entrenamiento y de prueba
+
 <p align="center">
-<img src="ProyectoFinal/Resultados_Training_Testing.png" alt="Resultados" width="300"/>  
+<img src="ProyectoFinal/Resultados_Training_Testing.png" alt="Resultados" width="800"/>  
 </p>
