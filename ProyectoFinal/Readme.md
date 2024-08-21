@@ -38,3 +38,7 @@ __[Video explicando el proyecto](https://youtu.be/gMlwIeQes6g)__
 <p align="center">
 <img src="Resultados_Training_Testing.png" alt="Resultados_Training_Testing" width="800"/>  
 </p>
+
+# Referencias
+* [Sklearn.linear_model.LogisticRegression. (2007). Scikit-Learn. Recuperado 2021](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+* [Overview — NumPy v1.21 Manual. (2021). numpy.org. Recuperado 2021](https://numpy.org/doc/stable/index.html)
