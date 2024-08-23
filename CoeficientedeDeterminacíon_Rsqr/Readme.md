@@ -1,6 +1,19 @@
 # Coeficiente de Determinación
 Aquí se encuentra el código para calcular R^2, así como las fórmulas usadas.  
-__[video explicando resultados](https://www.youtube.com/watch?v=MUJbQ6qhvHw)__
+__Video Explicativo YOUTUBE__
+<p align="center">
+    <a 
+    href="https://www.youtube.com/watch?v=MUJbQ6qhvHw" ><img src="COEFICIENTE DE DETERMINACÍON.png" alt="Coeficiente de Determinación" width="350" >
+    </a>
+</p>
+
+<p align="center">
+    <b>
+        <a 
+        href="https://www.youtube.com/watch?v=MUJbQ6qhvHw"> Video Coeficiente de Determinación
+        </a>
+    </b>
+</p>
 
 ## Funciones y Ecuaciones
 <p align="center">
