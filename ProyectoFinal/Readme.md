@@ -9,7 +9,20 @@ Partiendo de la premisa anterior el algoritmo a ser implementado es uno de __cla
 
 La información fue estructurada siguiendo el modelo __CRISP-DM__, del cual se plantean las fases de: __Business Understanding, Data Understanding, Data Preparation, Modeling y Evaluation, la última fase de despliegue no es tenida en cuenta.__
 
-__[Video explicando el proyecto](https://youtu.be/gMlwIeQes6g)__
+__Video Explicativo YOUTUBE__
+<p align="center">
+    <a 
+    href="https://youtu.be/gMlwIeQes6g" ><img src="Proyecto Final AI.png" alt="Proyecto Final" width="250" >
+    </a>
+</p>
+
+<p align="center">
+    <b>
+        <a 
+        href="https://youtu.be/gMlwIeQes6g"> Video Proyecto Final
+        </a>
+    </b>
+</p>
 
 ## Snippets de Python del codigo y el algoritmo usado
 ### Declaración Librerias
