@@ -21,7 +21,7 @@ __Video Explicativo YOUTUBE__
 </p>
 
 ## Python
-### Librerias
+### librerías
 <p align="center">
 <img src="Librerias_coeficiente.png" alt="Librerias_coeficiente" width="1000"/>  
 </p>
